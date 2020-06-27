@@ -1,2 +1,2 @@
 # hello-world
-this is where I'll be putting projects from edx cs50
+this is where I'll be putting some projects from edx cs50
